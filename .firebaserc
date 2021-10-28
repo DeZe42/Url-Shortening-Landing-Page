@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "url-shortening-landing-page": {
+      "hosting": {
+        "Url-Shortening-Landing-Page": [
+          "url-shortening-landing-page"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "url-shortening-landing-page"
+  }
+}

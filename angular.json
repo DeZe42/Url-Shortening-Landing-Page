@@ -107,6 +107,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "Url-Shortening-Landing-Page:build:production",
+            "firebaseProject": "url-shortening-landing-page",
+            "firebaseHostingSite": "url-shortening-landing-page"
+          }
         }
       }
     }
