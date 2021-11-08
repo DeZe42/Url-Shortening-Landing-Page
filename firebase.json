@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "shortening-landing-page",
     "public": "dist",
     "ignore": [
       "firebase.json",

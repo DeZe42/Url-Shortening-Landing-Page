@@ -2,12 +2,12 @@ export const environment = {
   production: true,
   apiURL: "https://api.shrtco.de/v2/shorten",
   firebase: {
-    apiKey: "AIzaSyBElj5TzI-50PADG0_RBYyOq2HSLMrq0VQ",
-    authDomain: "url-shortening-landing-page.firebaseapp.com",
-    projectId: "url-shortening-landing-page",
-    storageBucket: "url-shortening-landing-page.appspot.com",
-    messagingSenderId: "662703678745",
-    appId: "1:662703678745:web:64a7fc6af0d976b4311188",
-    measurementId: "G-CKHY65THN7"
+    apiKey: "AIzaSyAi0t6KueK0cCbRgMxz0d0F52QZWRmS20o",
+    authDomain: "portfolio-projects-4b9da.firebaseapp.com",
+    projectId: "portfolio-projects-4b9da",
+    storageBucket: "portfolio-projects-4b9da.appspot.com",
+    messagingSenderId: "949907467161",
+    appId: "1:949907467161:web:f2ec2a2c29aaffc8494108",
+    measurementId: "G-9BWZGZ81QD"
   }
 };
